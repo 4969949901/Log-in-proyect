@@ -1,0 +1,3 @@
+C:/Users/helac/CLionProjects/Log in Usuario/cmake-build-debug/CMakeFiles/Log_in_Usuario.dir
+C:/Users/helac/CLionProjects/Log in Usuario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/helac/CLionProjects/Log in Usuario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
